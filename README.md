@@ -5,7 +5,7 @@ Tienda online ficticia de productos para perros y gatos, pensada para funcionar 
 ## Páginas
 - `index.html` — Inicio
 - `productos.html` — Catálogo (4 productos)
-- `detalle.html` — Detalle de la fuente de agua para gatos
+- `detalle.html` — Detalle de la fuente de agua para gatos, arnes, comedero y peluche
 - `contacto.html` — Contacto con formulario
 
 ## Cómo abrirlo
